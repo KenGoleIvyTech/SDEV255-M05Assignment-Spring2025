@@ -1,0 +1,5 @@
+This is the new file I made for the M05 assignment
+
+It is a text file 
+
+This is the third line to qualify for "a few lines" 
